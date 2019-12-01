@@ -43,7 +43,6 @@ def get_picture_url(res):
 
 
 def save_jpg(jpgList):
-
     for url in jpgList:
         time.sleep(0.8)
         print(url)
